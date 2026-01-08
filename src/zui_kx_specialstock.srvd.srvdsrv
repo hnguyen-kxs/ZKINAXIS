@@ -1,0 +1,5 @@
+@AbapCatalog.extensibility.extensible: true
+@EndUserText.label: 'SPECIALSTOCK def'
+define service ZUI_KX_SpecialStock {
+  expose ZC_KX_SpecialStock;
+}

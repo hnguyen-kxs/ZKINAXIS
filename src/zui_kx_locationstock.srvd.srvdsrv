@@ -1,0 +1,5 @@
+@AbapCatalog.extensibility.extensible: true
+@EndUserText.label: 'LOCATIONSTOCK def'
+define service ZUI_KX_LocationStock {
+  expose ZC_KX_LocationStock;
+}

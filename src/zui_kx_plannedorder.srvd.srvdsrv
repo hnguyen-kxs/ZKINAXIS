@@ -1,0 +1,5 @@
+@AbapCatalog.extensibility.extensible: true
+@EndUserText.label: 'PLANNEDORDER def'
+define service ZUI_KX_PlannedOrder {
+  expose ZC_KX_PlannedOrder;
+}

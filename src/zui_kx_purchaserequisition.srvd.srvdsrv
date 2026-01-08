@@ -1,0 +1,5 @@
+@AbapCatalog.extensibility.extensible: true
+@EndUserText.label: 'PURCHASEREQUISITION def'
+define service ZUI_KX_PurchaseRequisition {
+  expose ZC_KX_PurchaseRequisition;
+}

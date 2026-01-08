@@ -1,0 +1,5 @@
+@AbapCatalog.extensibility.extensible: true
+@EndUserText.label: 'BILLOFMATERIALSALESBOM def'
+define service ZUI_KX_BillOfMaterialSalesBOM {
+  expose ZC_KX_BillOfMaterialSalesBOM;
+}

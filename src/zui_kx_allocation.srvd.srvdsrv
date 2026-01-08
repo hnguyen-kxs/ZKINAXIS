@@ -1,0 +1,5 @@
+@AbapCatalog.extensibility.extensible: true
+@EndUserText.label: 'Allocation Service def'
+define service ZUI_KX_Allocation {
+  expose ZC_KX_Allocation;
+}

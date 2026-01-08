@@ -1,0 +1,5 @@
+@AbapCatalog.extensibility.extensible: true
+@EndUserText.label: 'SDITEMREQUIREMENTS def'
+define service ZUI_KX_SDItemRequirements {
+  expose ZC_KX_SDItemRequirements;
+}
